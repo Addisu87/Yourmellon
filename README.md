@@ -97,14 +97,10 @@ Example command:
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
 ```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  cd Yourmellon
+  git clone https://github.com/Addisu87/Yourmellon.git
 ```
---->
 
 ### Install
 
