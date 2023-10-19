@@ -25,7 +25,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-**[Yourmellon Test]** is a python files to show different functionality based on the questions asked by Yourmellon.
+**Yourmellon Test** is a python files to show different functionality based on the questions asked by Yourmellon.
 
 ## 🛠 Built With <a name="Python"></a>
 
@@ -57,7 +57,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 ```sh
- brew install python
+ python
 ```
 
 ### Setup
