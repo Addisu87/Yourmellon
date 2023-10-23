@@ -82,6 +82,11 @@ Clone this repository to your desired folder:
 
 To run the project, execute the following command:
 
+```sh
+  cd src
+  python <file name>
+```
+
 Right click on the file and click Run Python file on the terminal
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
